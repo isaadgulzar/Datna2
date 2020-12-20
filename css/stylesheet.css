@@ -34,10 +34,14 @@ body, html {
 @media only screen and (max-width:1240px) {
     #footer-links {
         color: rgb(187, 186, 186);
-        position: relative;
-        bottom: auto;
+        position: static;
     }
     #footer-links p{
         font-size: 12px;
+    }
+}
+@media only screen and (max-width:600px) {
+    .br-sm {
+        display: none;
     }
 }
