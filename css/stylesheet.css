@@ -1,0 +1,33 @@
+body, html {
+    height: 100%;
+    position: relative;
+}
+.title {
+    color: rgb(0, 150, 255);
+    font-weight: bolder;
+}
+.heading {
+    color: rgb(0, 84, 147);
+}
+.sub-heading {
+    color: rgb(50, 130, 190);
+    font-weight: 600 !important;
+}
+.image {
+    width: 100%;
+}
+.btn {
+    background: rgb(0, 150, 255) !important;
+}
+.btn:hover{
+    background: rgb(24, 110, 172) !important;
+}
+.footer {
+    color: rgb(187, 186, 186);
+}
+#footer-links {
+    color: rgb(187, 186, 186);
+    position: absolute;
+    bottom: 0;
+    margin: 0px auto !important;
+}
