@@ -34,7 +34,7 @@ body, html {
 @media only screen and (max-width:1240px) {
     #footer-links {
         color: rgb(187, 186, 186);
-        position: static;
+        position: relative;
     }
     #footer-links p{
         font-size: 12px;
