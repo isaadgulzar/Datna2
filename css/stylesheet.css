@@ -35,6 +35,7 @@ body, html {
     #footer-links {
         color: rgb(187, 186, 186);
         position: relative;
+        bottom: auto;
     }
     #footer-links p{
         font-size: 12px;
